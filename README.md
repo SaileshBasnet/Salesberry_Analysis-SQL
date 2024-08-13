@@ -28,7 +28,7 @@ salesberry_report.csv
 - rating: Customer rating for product.
 
 ### Data Sources: 
-For this analysis, the dataset is fictional and serves to simulate real-world data scenarios : [link of dataset]()
+For this analysis, the dataset is fictional and serves to simulate real-world data scenarios : [link of dataset](https://github.com/SaileshBasnet/Salesberry_Analysis-SQL/blob/main/salesberry_report.csv)
 
 ## Methodology
 ### Tools Used
@@ -36,6 +36,7 @@ SQL was used for data querying, aggregation, and transformation to perform queri
 - Tools used: MySQL, MySQL Workbench
 
 ## Analysis Methods
+For this analysis, I tried to solve business related question with different category. These are the detailed breakdown of the questions and insights explored.
 ### 1. Product Insights
 
 - **Unique Product Lines**: The dataset includes a variety of product lines. Each line contributes differently to overall sales and revenue.
@@ -176,7 +177,7 @@ SQL was used for data querying, aggregation, and transformation to perform queri
 
 - **City with Highest Average Unit Price**: Identifies the city with the highest average unit price, reflecting pricing strategies and market conditions.
 
-For a detailed look at the SQL queries used and their specific applications, refer to this link: [SQL Queries for Analysis]().
+### For a detailed look at the SQL queries used and their specific applications, refer to this link: [SQL Queries for Analysis](https://github.com/SaileshBasnet/Salesberry_Analysis-SQL/blob/main/salesberry_Project.sql).
 ---
 
 ## Summary
